@@ -14,8 +14,6 @@ If you see some inconsistencies or errors, feel free to reach out and ask for a 
 
 🎧 If you use it for your musical projects, send some links over, I am always listening to new music!
 
-![](img.png=250x)
-
 ### Usage
  1. Dataset: generate your own dataset.
  2. Train: train the model, playground for generation, latent space visualization.
@@ -24,3 +22,5 @@ If you see some inconsistencies or errors, feel free to reach out and ask for a 
 ### Credits
 * [https://github.com/jordipons/musicnn](https://github.com/jordipons/musicnn)
 * Took a lot of inspiration from [https://github.com/s-omranpour/X-VAE-keras](https://github.com/s-omranpour/X-VAE-keras) for the network architecture.
+
+![](img.png)
