@@ -14,7 +14,7 @@ If you see some inconsistencies or errors, feel free to reach out and ask for a 
 
 🎧 If you use it for your musical projects, send some links over, I am always listening to new music!
 
-![](img.png =250x)
+![](img.png=250x)
 
 ### Usage
  1. Dataset: generate your own dataset.
